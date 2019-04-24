@@ -1,6 +1,6 @@
 Please fill all the details about you in the below format.
 
-<<<<<<< HEAD
+
 Name                   : Jannath Hussain
 Designation            : Software Engineer
 Project Assigned       : Mastbazaar
@@ -8,7 +8,7 @@ Techonlogies Know      : PHP, Node
 Date of Joining        : Dec 10,2018
 Official Email ID      : jannath@theretailinsights.com
 Reporting Manager      : Anuj
-=======
+
 Name                   : Bhargaw
 Designation            : Program Manager
 Project Assigned       : All
@@ -16,7 +16,6 @@ Techonlogies Know      : All
 Date of Joining        : 4rth Feb
 Official Email ID      : bhargaw.rss@theretailinsights.com
 Reporting Manager      : Faizal / Vishnu
->>>>>>> 932fad2fc4c702fa890b24fa18db5f27b803e410
 
 Name                   : Ranjitha.S
 Designation            : Junior Software Engineer
@@ -49,3 +48,11 @@ Techonlogies Know      : Php,laravel
 Date of Joining        : 02-04-19
 Official Email ID      : nupur@theretailinsights.com
 Reporting Manager      : BHARGAW
+
+Name                   : Ishu Sharma
+Designation            : Software Engineer
+Project Assigned       : Hylosh (Reliance)
+Techonlogies Know      : PHP, Html, CSS, Javascript, Zend
+Date of Joining        : 03-04-2019
+Official Email ID      : ishu@theretailinsights.com
+Reporting Manager      : Bhargaw , TL- Mounaa
