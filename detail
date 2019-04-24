@@ -1,5 +1,6 @@
 Please fill all the details about you in the below format.
 
+<<<<<<< HEAD
 Name                   : Jannath Hussain
 Designation            : Software Engineer
 Project Assigned       : Mastbazaar
@@ -7,4 +8,36 @@ Techonlogies Know      : PHP, Node
 Date of Joining        : Dec 10,2018
 Official Email ID      : jannath@theretailinsights.com
 Reporting Manager      : Anuj
+=======
+Name                   : Bhargaw
+Designation            : Program Manager
+Project Assigned       : All
+Techonlogies Know      : All
+Date of Joining        : 4rth Feb
+Official Email ID      : bhargaw.rss@theretailinsights.com
+Reporting Manager      : Faizal / Vishnu
+>>>>>>> 932fad2fc4c702fa890b24fa18db5f27b803e410
 
+Name                   : Ranjitha.S
+Designation            : Junior Software Engineer
+Project Assigned       : Decathlon platform API, All for Sport
+Techonlogies Know      : HTML,CSS,Bootstrap,Javascript,PHP,Magento 2,Prestashop 
+Date of Joining        : 3rd December 2018
+Official Email ID      : ranjitha@theretailinsights.com
+Reporting Manager      : Bhargaw.RSS
+
+Name                   : Gogu Rudra Sri Harsha
+Designation            : Software Engineer
+Project Assigned       : Apollo, I Love Diamonds, Holland and Barret India, Little Birdie, All Servers and Hostings
+Techonlogies Know      : PHP, jQuery, HTML, CSS, JavaScript, AJAX, SQL, Magento 1 & 2, WordPress, Prestashop, Domains, Servers, Angular, NodeJS
+Date of Joining        : 1st Mar, 2018
+Official Email ID      : harsha@theretailinsights.com
+Reporting Manager      : Anuj / Faizal
+
+Name                   : JAYAPRAKASH
+Designation            : SOFTWARE DEVELOPER
+Project Assigned       : EMBASSY 
+Techonlogies Know      : REACTJS , ANGULARJS ,JAVASCRIPT
+Date of Joining        : 06-03-19
+Official Email ID      : JAYAPRAKASH@THERETAILINSIGHTS.COM
+Reporting Manager      : BHARGAW
